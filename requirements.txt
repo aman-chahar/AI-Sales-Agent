@@ -1,0 +1,11 @@
+google-generativeai
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+scikit-learn
+nltk
+rouge-score
+transformers
+torch
+python-dotenv
